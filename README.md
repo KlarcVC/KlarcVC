@@ -34,11 +34,12 @@ This GitHub serves as my collection of projects that reflect real-world cybersec
 
 | Project | Description | Tools | Link |
 |--------|-------------|-------|------|
-| 🛡️ **Wazuh Agent Deployment** | Connected Windows 10 VM to Wazuh server for log monitoring | Wazuh, Sysmon, VirtualBox | [View](https://github.com/your-username/cybersecurity-projects/tree/main/wazuh-agent-windows) |
-| 📡 **Network Traffic Analysis** | Analyzed PCAPs to detect threats using Wireshark & Zeek | Wireshark, Brim, Tcpdump | [View](https://github.com/your-username/cybersecurity-projects/tree/main/network-traffic-analysis) |
-| 🔍 **Splunk Threat Hunting** | Used Splunk to detect brute-force and lateral movement | Splunk Free, Windows logs | [View](https://github.com/your-username/cybersecurity-projects/tree/main/splunk-threat-hunting) |
-| 🧱 **Firewall Hardening** | Hardened Linux server on Vultr using UFW and SSH best practices | UFW, Nmap, Vultr | [View](https://github.com/your-username/cybersecurity-projects/tree/main/firewall-hardening) |
-| 🎯 **TryHackMe SOC1 Labs** | Completed real-world detection labs in blue team environments | TryHackMe, Elastic, Sysmon | [View](https://github.com/your-username/cybersecurity-projects/tree/main/tryhackme-soc1) |
+| 🛡️ **Windows Security Hardening** | Connected Windows 10 VM to Wazuh server for log monitoring | Wazuh, Sysmon, VirtualBox | [View](https://github.com/your-username/cybersecurity-projects/tree/main/wazuh-agent-windows) |
+| 🛡️ **Wazuh Agent Deployment** | Connected Windows 10 VM to Wazuh server for log monitoring | Wazuh, Sysmon, VirtualBox |
+| 📡 **Network Traffic Analysis** | Analyzed PCAPs to detect threats using Wireshark & Zeek | Wireshark, Brim, Tcpdump |
+| 🔍 **Splunk Threat Hunting** | Used Splunk to detect brute-force and lateral movement | Splunk Free, Windows logs | 
+| 🧱 **Firewall Hardening** | Hardened Linux server on Vultr using UFW and SSH best practices | UFW, Nmap, Vultr |
+| 🎯 **TryHackMe SOC1 Labs** | Completed real-world detection labs in blue team environments | TryHackMe, Elastic, Sysmon | 
 
 ---
 
