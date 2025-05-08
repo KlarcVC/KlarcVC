@@ -1,57 +1,54 @@
-# Hello, My name is Klarc Clarabal
-<a href="https://www.linkedin.com/in/klarc-clarabal-2545b5214/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 👋 Welcome to Klarc Clarabal’s Cybersecurity Portfolio
 
-I am pursuing a certificate in Applied Cybersecurity in McGill University in Montreal QC, Canada.
+Hi, I'm Klarc — a cybersecurity enthusiast and blue teamer based in Quebec, Canada 🇨🇦. I'm currently pursuing a Certificate in Applied Cybersecurity at McGill University and hold several credentials, including **CompTIA Security+**, the **Google Cybersecurity Certificate**, and hands-on experience with SIEM, network traffic analysis, and endpoint monitoring tools.
 
-## Objective
+This GitHub serves as my collection of projects that reflect real-world cybersecurity scenarios, from SIEM configuration to threat detection, log analysis, and firewall hardening.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+---
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## 🧠 About Me
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+- 💼 **Current Roles:**
+  - McDonald's Crew Member (March 2025 - Present)
+  - Customer Experience Associate @ Scotiabank (Sept 2023 – Aug 2024)
+  - Weekend Team Leader/Key Holder @ Neon Corp (Nov 2021 – Feb 2025)
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+- 🎓 **Education:**
+  - Certificate in Applied Cybersecurity – McGill University (In Progress)
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+- 📜 **Certifications:**
+  - CompTIA Security+ (Jan 2025)
+  - Google Cybersecurity Certificate (2023–2024)
+  - Certified Blue Team Level 1 (Pursuing)
+  - TryHackMe SOC Level 1 (Jan 2025)
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+- 🔧 **Tools & Technologies:**
+  - SIEM: Splunk, Elastic Stack, Wazuh
+  - Network: Wireshark, Tcpdump, Zeek, Brim
+  - Security: Microsoft Defender, Sysmon, Snort
+  - Platforms: Kali Linux, Oracle VirtualBox, Azure, DigitalOcean
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+---
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+## 📂 Featured Projects
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+| Project | Description | Tools | Link |
+|--------|-------------|-------|------|
+| 🛡️ **Wazuh Agent Deployment** | Connected Windows 10 VM to Wazuh server for log monitoring | Wazuh, Sysmon, VirtualBox | [View](https://github.com/your-username/cybersecurity-projects/tree/main/wazuh-agent-windows) |
+| 📡 **Network Traffic Analysis** | Analyzed PCAPs to detect threats using Wireshark & Zeek | Wireshark, Brim, Tcpdump | [View](https://github.com/your-username/cybersecurity-projects/tree/main/network-traffic-analysis) |
+| 🔍 **Splunk Threat Hunting** | Used Splunk to detect brute-force and lateral movement | Splunk Free, Windows logs | [View](https://github.com/your-username/cybersecurity-projects/tree/main/splunk-threat-hunting) |
+| 🧱 **Firewall Hardening** | Hardened Linux server on Vultr using UFW and SSH best practices | UFW, Nmap, Vultr | [View](https://github.com/your-username/cybersecurity-projects/tree/main/firewall-hardening) |
+| 🎯 **TryHackMe SOC1 Labs** | Completed real-world detection labs in blue team environments | TryHackMe, Elastic, Sysmon | [View](https://github.com/your-username/cybersecurity-projects/tree/main/tryhackme-soc1) |
+
+---
+
+## 🤝 Let’s Connect
+
+- 📧 Email: klarc@email.com  
+- 💼 [LinkedIn]()  
+- 🌐 [Portfolio Website (optional)](https://yourwebsite.com)  
+
+---
+
+> *“Cybersecurity is not just a profession — it's a mindset. Constantly learning, adapting, and defending.”*  
+— Klarc Clarabal
