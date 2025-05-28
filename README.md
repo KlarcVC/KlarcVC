@@ -47,7 +47,6 @@ This GitHub serves as my collection of projects that reflect real-world cybersec
 
 - 📧 Email: klarc@email.com  
 - 💼 [LinkedIn]()  
-- 🌐 [Portfolio Website (optional)](https://yourwebsite.com)  
 
 ---
 
